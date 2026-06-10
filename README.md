@@ -6,4 +6,5 @@
 
 > [!TIP]
 > 🇺🇸 Double-click on the numbers to easily choose the numbers you want.
+> 
 > 🇧🇷 Clique duas vezes nos números para alterá-los facilmente.
